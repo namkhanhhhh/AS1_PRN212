@@ -1,0 +1,816 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\Ky 5\\PRN212\\HE180034_SE1819_A01\\PRN-FUMiniHotelManagement\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7B1C5F7D-E98D-4C5E-9B25-44C942F60AF7}|WPFApp\\WPFApp.csproj|f:\\ky 5\\prn212\\he180034_se1819_a01\\prn-fuminihotelmanagement\\wpfapp\\bookinghistory.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B1C5F7D-E98D-4C5E-9B25-44C942F60AF7}|WPFApp\\WPFApp.csproj|solutionrelative:wpfapp\\bookinghistory.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B1C5F7D-E98D-4C5E-9B25-44C942F60AF7}|WPFApp\\WPFApp.csproj|F:\\Ky 5\\PRN212\\HE180034_SE1819_A01\\PRN-FUMiniHotelManagement\\wpfapp\\addeditbookingdialog.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B1C5F7D-E98D-4C5E-9B25-44C942F60AF7}|WPFApp\\WPFApp.csproj|solutionrelative:wpfapp\\addeditbookingdialog.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B7150F9-814A-4FD8-AD63-21CEAECE9908}|DataAccessLayer\\DataAccessLayer.csproj|F:\\Ky 5\\PRN212\\HE180034_SE1819_A01\\PRN-FUMiniHotelManagement\\dataaccesslayer\\dto\\bookinghistorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B7150F9-814A-4FD8-AD63-21CEAECE9908}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\dto\\bookinghistorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B7150F9-814A-4FD8-AD63-21CEAECE9908}|DataAccessLayer\\DataAccessLayer.csproj|F:\\Ky 5\\PRN212\\HE180034_SE1819_A01\\PRN-FUMiniHotelManagement\\dataaccesslayer\\dto\\request\\bookingdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B7150F9-814A-4FD8-AD63-21CEAECE9908}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\dto\\request\\bookingdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B7150F9-814A-4FD8-AD63-21CEAECE9908}|DataAccessLayer\\DataAccessLayer.csproj|F:\\Ky 5\\PRN212\\HE180034_SE1819_A01\\PRN-FUMiniHotelManagement\\dataaccesslayer\\dto\\request\\bookingdetailsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B7150F9-814A-4FD8-AD63-21CEAECE9908}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\dto\\request\\bookingdetailsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B7150F9-814A-4FD8-AD63-21CEAECE9908}|DataAccessLayer\\DataAccessLayer.csproj|F:\\Ky 5\\PRN212\\HE180034_SE1819_A01\\PRN-FUMiniHotelManagement\\dataaccesslayer\\bookinghistorydao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B7150F9-814A-4FD8-AD63-21CEAECE9908}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\bookinghistorydao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D650E3A-325C-48CB-9A3E-ACA2A077DA11}|Repositories\\Repositories.csproj|F:\\Ky 5\\PRN212\\HE180034_SE1819_A01\\PRN-FUMiniHotelManagement\\repositories\\bookinghistoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D650E3A-325C-48CB-9A3E-ACA2A077DA11}|Repositories\\Repositories.csproj|solutionrelative:repositories\\bookinghistoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D650E3A-325C-48CB-9A3E-ACA2A077DA11}|Repositories\\Repositories.csproj|F:\\Ky 5\\PRN212\\HE180034_SE1819_A01\\PRN-FUMiniHotelManagement\\repositories\\interface\\ibookinghistoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D650E3A-325C-48CB-9A3E-ACA2A077DA11}|Repositories\\Repositories.csproj|solutionrelative:repositories\\interface\\ibookinghistoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CAEC882-01A2-42A2-BE20-34B0406F1B10}|Services\\Services.csproj|F:\\Ky 5\\PRN212\\HE180034_SE1819_A01\\PRN-FUMiniHotelManagement\\services\\bookinghistoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CAEC882-01A2-42A2-BE20-34B0406F1B10}|Services\\Services.csproj|solutionrelative:services\\bookinghistoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CAEC882-01A2-42A2-BE20-34B0406F1B10}|Services\\Services.csproj|F:\\Ky 5\\PRN212\\HE180034_SE1819_A01\\PRN-FUMiniHotelManagement\\services\\interface\\ibookinghistoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CAEC882-01A2-42A2-BE20-34B0406F1B10}|Services\\Services.csproj|solutionrelative:services\\interface\\ibookinghistoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B1C5F7D-E98D-4C5E-9B25-44C942F60AF7}|WPFApp\\WPFApp.csproj|F:\\Ky 5\\PRN212\\HE180034_SE1819_A01\\PRN-FUMiniHotelManagement\\wpfapp\\addeditroomdialog.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B1C5F7D-E98D-4C5E-9B25-44C942F60AF7}|WPFApp\\WPFApp.csproj|solutionrelative:wpfapp\\addeditroomdialog.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B1C5F7D-E98D-4C5E-9B25-44C942F60AF7}|WPFApp\\WPFApp.csproj|F:\\Ky 5\\PRN212\\HE180034_SE1819_A01\\PRN-FUMiniHotelManagement\\wpfapp\\addeditcustomerdialog.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B1C5F7D-E98D-4C5E-9B25-44C942F60AF7}|WPFApp\\WPFApp.csproj|solutionrelative:wpfapp\\addeditcustomerdialog.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B1C5F7D-E98D-4C5E-9B25-44C942F60AF7}|WPFApp\\WPFApp.csproj|F:\\Ky 5\\PRN212\\HE180034_SE1819_A01\\PRN-FUMiniHotelManagement\\wpfapp\\configurationmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B1C5F7D-E98D-4C5E-9B25-44C942F60AF7}|WPFApp\\WPFApp.csproj|solutionrelative:wpfapp\\configurationmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B1C5F7D-E98D-4C5E-9B25-44C942F60AF7}|WPFApp\\WPFApp.csproj|F:\\Ky 5\\PRN212\\HE180034_SE1819_A01\\PRN-FUMiniHotelManagement\\wpfapp\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B1C5F7D-E98D-4C5E-9B25-44C942F60AF7}|WPFApp\\WPFApp.csproj|solutionrelative:wpfapp\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B1C5F7D-E98D-4C5E-9B25-44C942F60AF7}|WPFApp\\WPFApp.csproj|F:\\Ky 5\\PRN212\\HE180034_SE1819_A01\\PRN-FUMiniHotelManagement\\wpfapp\\customermanagement.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B1C5F7D-E98D-4C5E-9B25-44C942F60AF7}|WPFApp\\WPFApp.csproj|solutionrelative:wpfapp\\customermanagement.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B1C5F7D-E98D-4C5E-9B25-44C942F60AF7}|WPFApp\\WPFApp.csproj|F:\\Ky 5\\PRN212\\HE180034_SE1819_A01\\PRN-FUMiniHotelManagement\\wpfapp\\loginwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B1C5F7D-E98D-4C5E-9B25-44C942F60AF7}|WPFApp\\WPFApp.csproj|solutionrelative:wpfapp\\loginwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B1C5F7D-E98D-4C5E-9B25-44C942F60AF7}|WPFApp\\WPFApp.csproj|F:\\Ky 5\\PRN212\\HE180034_SE1819_A01\\PRN-FUMiniHotelManagement\\wpfapp\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B1C5F7D-E98D-4C5E-9B25-44C942F60AF7}|WPFApp\\WPFApp.csproj|solutionrelative:wpfapp\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B1C5F7D-E98D-4C5E-9B25-44C942F60AF7}|WPFApp\\WPFApp.csproj|F:\\Ky 5\\PRN212\\HE180034_SE1819_A01\\PRN-FUMiniHotelManagement\\wpfapp\\reportstatistics.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B1C5F7D-E98D-4C5E-9B25-44C942F60AF7}|WPFApp\\WPFApp.csproj|solutionrelative:wpfapp\\reportstatistics.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B1C5F7D-E98D-4C5E-9B25-44C942F60AF7}|WPFApp\\WPFApp.csproj|F:\\Ky 5\\PRN212\\HE180034_SE1819_A01\\PRN-FUMiniHotelManagement\\wpfapp\\roommanagement.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B1C5F7D-E98D-4C5E-9B25-44C942F60AF7}|WPFApp\\WPFApp.csproj|solutionrelative:wpfapp\\roommanagement.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B1C5F7D-E98D-4C5E-9B25-44C942F60AF7}|WPFApp\\WPFApp.csproj|F:\\Ky 5\\PRN212\\HE180034_SE1819_A01\\PRN-FUMiniHotelManagement\\wpfapp\\adminwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B1C5F7D-E98D-4C5E-9B25-44C942F60AF7}|WPFApp\\WPFApp.csproj|solutionrelative:wpfapp\\adminwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B1C5F7D-E98D-4C5E-9B25-44C942F60AF7}|WPFApp\\WPFApp.csproj|F:\\Ky 5\\PRN212\\HE180034_SE1819_A01\\PRN-FUMiniHotelManagement\\wpfapp\\bookinghistory.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{7B1C5F7D-E98D-4C5E-9B25-44C942F60AF7}|WPFApp\\WPFApp.csproj|solutionrelative:wpfapp\\bookinghistory.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B1C5F7D-E98D-4C5E-9B25-44C942F60AF7}|WPFApp\\WPFApp.csproj|F:\\Ky 5\\PRN212\\HE180034_SE1819_A01\\PRN-FUMiniHotelManagement\\wpfapp\\addeditbookingdialog.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{7B1C5F7D-E98D-4C5E-9B25-44C942F60AF7}|WPFApp\\WPFApp.csproj|solutionrelative:wpfapp\\addeditbookingdialog.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D650E3A-325C-48CB-9A3E-ACA2A077DA11}|Repositories\\Repositories.csproj|F:\\Ky 5\\PRN212\\HE180034_SE1819_A01\\PRN-FUMiniHotelManagement\\repositories\\roomrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D650E3A-325C-48CB-9A3E-ACA2A077DA11}|Repositories\\Repositories.csproj|solutionrelative:repositories\\roomrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B7150F9-814A-4FD8-AD63-21CEAECE9908}|DataAccessLayer\\DataAccessLayer.csproj|F:\\Ky 5\\PRN212\\HE180034_SE1819_A01\\PRN-FUMiniHotelManagement\\dataaccesslayer\\roomdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B7150F9-814A-4FD8-AD63-21CEAECE9908}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\roomdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B7150F9-814A-4FD8-AD63-21CEAECE9908}|DataAccessLayer\\DataAccessLayer.csproj|F:\\Ky 5\\PRN212\\HE180034_SE1819_A01\\PRN-FUMiniHotelManagement\\dataaccesslayer\\dto\\roomdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B7150F9-814A-4FD8-AD63-21CEAECE9908}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\dto\\roomdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B1C5F7D-E98D-4C5E-9B25-44C942F60AF7}|WPFApp\\WPFApp.csproj|F:\\Ky 5\\PRN212\\HE180034_SE1819_A01\\PRN-FUMiniHotelManagement\\wpfapp\\profilemanagement.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B1C5F7D-E98D-4C5E-9B25-44C942F60AF7}|WPFApp\\WPFApp.csproj|solutionrelative:wpfapp\\profilemanagement.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B1C5F7D-E98D-4C5E-9B25-44C942F60AF7}|WPFApp\\WPFApp.csproj|F:\\Ky 5\\PRN212\\HE180034_SE1819_A01\\PRN-FUMiniHotelManagement\\wpfapp\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B1C5F7D-E98D-4C5E-9B25-44C942F60AF7}|WPFApp\\WPFApp.csproj|solutionrelative:wpfapp\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B1C5F7D-E98D-4C5E-9B25-44C942F60AF7}|WPFApp\\WPFApp.csproj|F:\\Ky 5\\PRN212\\HE180034_SE1819_A01\\PRN-FUMiniHotelManagement\\wpfapp\\roommanagement.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{7B1C5F7D-E98D-4C5E-9B25-44C942F60AF7}|WPFApp\\WPFApp.csproj|solutionrelative:wpfapp\\roommanagement.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B1C5F7D-E98D-4C5E-9B25-44C942F60AF7}|WPFApp\\WPFApp.csproj|F:\\Ky 5\\PRN212\\HE180034_SE1819_A01\\PRN-FUMiniHotelManagement\\wpfapp\\profilemanagement.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{7B1C5F7D-E98D-4C5E-9B25-44C942F60AF7}|WPFApp\\WPFApp.csproj|solutionrelative:wpfapp\\profilemanagement.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B1C5F7D-E98D-4C5E-9B25-44C942F60AF7}|WPFApp\\WPFApp.csproj|F:\\Ky 5\\PRN212\\HE180034_SE1819_A01\\PRN-FUMiniHotelManagement\\wpfapp\\addeditroomdialog.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{7B1C5F7D-E98D-4C5E-9B25-44C942F60AF7}|WPFApp\\WPFApp.csproj|solutionrelative:wpfapp\\addeditroomdialog.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CAEC882-01A2-42A2-BE20-34B0406F1B10}|Services\\Services.csproj|F:\\Ky 5\\PRN212\\HE180034_SE1819_A01\\PRN-FUMiniHotelManagement\\services\\interface\\iroomservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CAEC882-01A2-42A2-BE20-34B0406F1B10}|Services\\Services.csproj|solutionrelative:services\\interface\\iroomservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CAEC882-01A2-42A2-BE20-34B0406F1B10}|Services\\Services.csproj|F:\\Ky 5\\PRN212\\HE180034_SE1819_A01\\PRN-FUMiniHotelManagement\\services\\interface\\icustomerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CAEC882-01A2-42A2-BE20-34B0406F1B10}|Services\\Services.csproj|solutionrelative:services\\interface\\icustomerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CAEC882-01A2-42A2-BE20-34B0406F1B10}|Services\\Services.csproj|F:\\Ky 5\\PRN212\\HE180034_SE1819_A01\\PRN-FUMiniHotelManagement\\services\\roomservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CAEC882-01A2-42A2-BE20-34B0406F1B10}|Services\\Services.csproj|solutionrelative:services\\roomservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D650E3A-325C-48CB-9A3E-ACA2A077DA11}|Repositories\\Repositories.csproj|F:\\Ky 5\\PRN212\\HE180034_SE1819_A01\\PRN-FUMiniHotelManagement\\repositories\\interface\\iroomrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D650E3A-325C-48CB-9A3E-ACA2A077DA11}|Repositories\\Repositories.csproj|solutionrelative:repositories\\interface\\iroomrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B7150F9-814A-4FD8-AD63-21CEAECE9908}|DataAccessLayer\\DataAccessLayer.csproj|F:\\Ky 5\\PRN212\\HE180034_SE1819_A01\\PRN-FUMiniHotelManagement\\dataaccesslayer\\customerdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B7150F9-814A-4FD8-AD63-21CEAECE9908}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\customerdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CAEC882-01A2-42A2-BE20-34B0406F1B10}|Services\\Services.csproj|F:\\Ky 5\\PRN212\\HE180034_SE1819_A01\\PRN-FUMiniHotelManagement\\services\\customerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CAEC882-01A2-42A2-BE20-34B0406F1B10}|Services\\Services.csproj|solutionrelative:services\\customerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D650E3A-325C-48CB-9A3E-ACA2A077DA11}|Repositories\\Repositories.csproj|F:\\Ky 5\\PRN212\\HE180034_SE1819_A01\\PRN-FUMiniHotelManagement\\repositories\\customerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D650E3A-325C-48CB-9A3E-ACA2A077DA11}|Repositories\\Repositories.csproj|solutionrelative:repositories\\customerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D650E3A-325C-48CB-9A3E-ACA2A077DA11}|Repositories\\Repositories.csproj|F:\\Ky 5\\PRN212\\HE180034_SE1819_A01\\PRN-FUMiniHotelManagement\\repositories\\interface\\icustomerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D650E3A-325C-48CB-9A3E-ACA2A077DA11}|Repositories\\Repositories.csproj|solutionrelative:repositories\\interface\\icustomerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B7150F9-814A-4FD8-AD63-21CEAECE9908}|DataAccessLayer\\DataAccessLayer.csproj|F:\\Ky 5\\PRN212\\HE180034_SE1819_A01\\PRN-FUMiniHotelManagement\\dataaccesslayer\\fuminihotelmanagementcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B7150F9-814A-4FD8-AD63-21CEAECE9908}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\fuminihotelmanagementcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B7150F9-814A-4FD8-AD63-21CEAECE9908}|DataAccessLayer\\DataAccessLayer.csproj|F:\\Ky 5\\PRN212\\HE180034_SE1819_A01\\PRN-FUMiniHotelManagement\\dataaccesslayer\\dto\\reportstatisticdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B7150F9-814A-4FD8-AD63-21CEAECE9908}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\dto\\reportstatisticdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{384E3D5E-A7E5-4BC4-9C28-5936FF3B2B30}|BusinessObjects\\BusinessObjects.csproj|F:\\Ky 5\\PRN212\\HE180034_SE1819_A01\\PRN-FUMiniHotelManagement\\businessobjects\\roomtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{384E3D5E-A7E5-4BC4-9C28-5936FF3B2B30}|BusinessObjects\\BusinessObjects.csproj|solutionrelative:businessobjects\\roomtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{384E3D5E-A7E5-4BC4-9C28-5936FF3B2B30}|BusinessObjects\\BusinessObjects.csproj|F:\\Ky 5\\PRN212\\HE180034_SE1819_A01\\PRN-FUMiniHotelManagement\\businessobjects\\roominformation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{384E3D5E-A7E5-4BC4-9C28-5936FF3B2B30}|BusinessObjects\\BusinessObjects.csproj|solutionrelative:businessobjects\\roominformation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{384E3D5E-A7E5-4BC4-9C28-5936FF3B2B30}|BusinessObjects\\BusinessObjects.csproj|F:\\Ky 5\\PRN212\\HE180034_SE1819_A01\\PRN-FUMiniHotelManagement\\businessobjects\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{384E3D5E-A7E5-4BC4-9C28-5936FF3B2B30}|BusinessObjects\\BusinessObjects.csproj|solutionrelative:businessobjects\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{384E3D5E-A7E5-4BC4-9C28-5936FF3B2B30}|BusinessObjects\\BusinessObjects.csproj|F:\\Ky 5\\PRN212\\HE180034_SE1819_A01\\PRN-FUMiniHotelManagement\\businessobjects\\bookingreservation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{384E3D5E-A7E5-4BC4-9C28-5936FF3B2B30}|BusinessObjects\\BusinessObjects.csproj|solutionrelative:businessobjects\\bookingreservation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{384E3D5E-A7E5-4BC4-9C28-5936FF3B2B30}|BusinessObjects\\BusinessObjects.csproj|F:\\Ky 5\\PRN212\\HE180034_SE1819_A01\\PRN-FUMiniHotelManagement\\businessobjects\\bookingdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{384E3D5E-A7E5-4BC4-9C28-5936FF3B2B30}|BusinessObjects\\BusinessObjects.csproj|solutionrelative:businessobjects\\bookingdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B1C5F7D-E98D-4C5E-9B25-44C942F60AF7}|WPFApp\\WPFApp.csproj|F:\\Ky 5\\PRN212\\HE180034_SE1819_A01\\PRN-FUMiniHotelManagement\\wpfapp\\reportstatistics.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{7B1C5F7D-E98D-4C5E-9B25-44C942F60AF7}|WPFApp\\WPFApp.csproj|solutionrelative:wpfapp\\reportstatistics.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B1C5F7D-E98D-4C5E-9B25-44C942F60AF7}|WPFApp\\WPFApp.csproj|F:\\Ky 5\\PRN212\\HE180034_SE1819_A01\\PRN-FUMiniHotelManagement\\wpfapp\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{7B1C5F7D-E98D-4C5E-9B25-44C942F60AF7}|WPFApp\\WPFApp.csproj|solutionrelative:wpfapp\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B1C5F7D-E98D-4C5E-9B25-44C942F60AF7}|WPFApp\\WPFApp.csproj|F:\\Ky 5\\PRN212\\HE180034_SE1819_A01\\PRN-FUMiniHotelManagement\\wpfapp\\loginwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{7B1C5F7D-E98D-4C5E-9B25-44C942F60AF7}|WPFApp\\WPFApp.csproj|solutionrelative:wpfapp\\loginwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B1C5F7D-E98D-4C5E-9B25-44C942F60AF7}|WPFApp\\WPFApp.csproj|F:\\Ky 5\\PRN212\\HE180034_SE1819_A01\\PRN-FUMiniHotelManagement\\wpfapp\\customermanagement.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{7B1C5F7D-E98D-4C5E-9B25-44C942F60AF7}|WPFApp\\WPFApp.csproj|solutionrelative:wpfapp\\customermanagement.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{57d563b6-44a5-47df-85be-f4199ad6b651}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:3:0:{57d563b6-44a5-47df-85be-f4199ad6b651}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:6:0:{57d563b6-44a5-47df-85be-f4199ad6b651}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BookingDetailsDTO.cs",
+              "DocumentMoniker": "F:\\Ky 5\\PRN212\\HE180034_SE1819_A01\\PRN-FUMiniHotelManagement\\DataAccessLayer\\DTO\\Request\\BookingDetailsDTO.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\DTO\\Request\\BookingDetailsDTO.cs",
+              "ToolTip": "F:\\Ky 5\\PRN212\\HE180034_SE1819_A01\\PRN-FUMiniHotelManagement\\DataAccessLayer\\DTO\\Request\\BookingDetailsDTO.cs",
+              "RelativeToolTip": "DataAccessLayer\\DTO\\Request\\BookingDetailsDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T16:05:10.503Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BookingDTO.cs",
+              "DocumentMoniker": "F:\\Ky 5\\PRN212\\HE180034_SE1819_A01\\PRN-FUMiniHotelManagement\\DataAccessLayer\\DTO\\Request\\BookingDTO.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\DTO\\Request\\BookingDTO.cs",
+              "ToolTip": "F:\\Ky 5\\PRN212\\HE180034_SE1819_A01\\PRN-FUMiniHotelManagement\\DataAccessLayer\\DTO\\Request\\BookingDTO.cs",
+              "RelativeToolTip": "DataAccessLayer\\DTO\\Request\\BookingDTO.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAswCQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T16:08:28.89Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BookingHistoryDTO.cs",
+              "DocumentMoniker": "F:\\Ky 5\\PRN212\\HE180034_SE1819_A01\\PRN-FUMiniHotelManagement\\DataAccessLayer\\DTO\\BookingHistoryDTO.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\DTO\\BookingHistoryDTO.cs",
+              "ToolTip": "F:\\Ky 5\\PRN212\\HE180034_SE1819_A01\\PRN-FUMiniHotelManagement\\DataAccessLayer\\DTO\\BookingHistoryDTO.cs",
+              "RelativeToolTip": "DataAccessLayer\\DTO\\BookingHistoryDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T06:55:12.901Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AddEditBookingDialog.xaml.cs",
+              "DocumentMoniker": "F:\\Ky 5\\PRN212\\HE180034_SE1819_A01\\PRN-FUMiniHotelManagement\\WPFApp\\AddEditBookingDialog.xaml.cs",
+              "RelativeDocumentMoniker": "WPFApp\\AddEditBookingDialog.xaml.cs",
+              "ToolTip": "F:\\Ky 5\\PRN212\\HE180034_SE1819_A01\\PRN-FUMiniHotelManagement\\WPFApp\\AddEditBookingDialog.xaml.cs",
+              "RelativeToolTip": "WPFApp\\AddEditBookingDialog.xaml.cs",
+              "ViewState": "AQIAAFsAAAAAAAAAAADwv6UAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T16:03:49.862Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BookingHistory.xaml.cs",
+              "DocumentMoniker": "F:\\Ky 5\\PRN212\\HE180034_SE1819_A01\\PRN-FUMiniHotelManagement\\WPFApp\\BookingHistory.xaml.cs",
+              "RelativeDocumentMoniker": "WPFApp\\BookingHistory.xaml.cs",
+              "ToolTip": "F:\\Ky 5\\PRN212\\HE180034_SE1819_A01\\PRN-FUMiniHotelManagement\\WPFApp\\BookingHistory.xaml.cs",
+              "RelativeToolTip": "WPFApp\\BookingHistory.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T07:49:13.613Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BookingHistoryDAO.cs",
+              "DocumentMoniker": "F:\\Ky 5\\PRN212\\HE180034_SE1819_A01\\PRN-FUMiniHotelManagement\\DataAccessLayer\\BookingHistoryDAO.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\BookingHistoryDAO.cs",
+              "ToolTip": "F:\\Ky 5\\PRN212\\HE180034_SE1819_A01\\PRN-FUMiniHotelManagement\\DataAccessLayer\\BookingHistoryDAO.cs",
+              "RelativeToolTip": "DataAccessLayer\\BookingHistoryDAO.cs",
+              "ViewState": "AQIAAGEAAAAAAAAAAAAcwIQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T06:53:50.331Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BookingHistoryRepository.cs",
+              "DocumentMoniker": "F:\\Ky 5\\PRN212\\HE180034_SE1819_A01\\PRN-FUMiniHotelManagement\\Repositories\\BookingHistoryRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\BookingHistoryRepository.cs",
+              "ToolTip": "F:\\Ky 5\\PRN212\\HE180034_SE1819_A01\\PRN-FUMiniHotelManagement\\Repositories\\BookingHistoryRepository.cs",
+              "RelativeToolTip": "Repositories\\BookingHistoryRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T07:48:00.973Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IBookingHistoryRepository.cs",
+              "DocumentMoniker": "F:\\Ky 5\\PRN212\\HE180034_SE1819_A01\\PRN-FUMiniHotelManagement\\Repositories\\Interface\\IBookingHistoryRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\Interface\\IBookingHistoryRepository.cs",
+              "ToolTip": "F:\\Ky 5\\PRN212\\HE180034_SE1819_A01\\PRN-FUMiniHotelManagement\\Repositories\\Interface\\IBookingHistoryRepository.cs",
+              "RelativeToolTip": "Repositories\\Interface\\IBookingHistoryRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T07:47:51.309Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "BookingHistoryService.cs",
+              "DocumentMoniker": "F:\\Ky 5\\PRN212\\HE180034_SE1819_A01\\PRN-FUMiniHotelManagement\\Services\\BookingHistoryService.cs",
+              "RelativeDocumentMoniker": "Services\\BookingHistoryService.cs",
+              "ToolTip": "F:\\Ky 5\\PRN212\\HE180034_SE1819_A01\\PRN-FUMiniHotelManagement\\Services\\BookingHistoryService.cs",
+              "RelativeToolTip": "Services\\BookingHistoryService.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAowB8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T16:06:04.62Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IBookingHistoryService.cs",
+              "DocumentMoniker": "F:\\Ky 5\\PRN212\\HE180034_SE1819_A01\\PRN-FUMiniHotelManagement\\Services\\Interface\\IBookingHistoryService.cs",
+              "RelativeDocumentMoniker": "Services\\Interface\\IBookingHistoryService.cs",
+              "ToolTip": "F:\\Ky 5\\PRN212\\HE180034_SE1819_A01\\PRN-FUMiniHotelManagement\\Services\\Interface\\IBookingHistoryService.cs",
+              "RelativeToolTip": "Services\\Interface\\IBookingHistoryService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T07:48:06.91Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AddEditRoomDialog.xaml.cs",
+              "DocumentMoniker": "F:\\Ky 5\\PRN212\\HE180034_SE1819_A01\\PRN-FUMiniHotelManagement\\WPFApp\\AddEditRoomDialog.xaml.cs",
+              "RelativeDocumentMoniker": "WPFApp\\AddEditRoomDialog.xaml.cs",
+              "ToolTip": "F:\\Ky 5\\PRN212\\HE180034_SE1819_A01\\PRN-FUMiniHotelManagement\\WPFApp\\AddEditRoomDialog.xaml.cs",
+              "RelativeToolTip": "WPFApp\\AddEditRoomDialog.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T07:22:55.465Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AddEditCustomerDialog.xaml.cs",
+              "DocumentMoniker": "F:\\Ky 5\\PRN212\\HE180034_SE1819_A01\\PRN-FUMiniHotelManagement\\WPFApp\\AddEditCustomerDialog.xaml.cs",
+              "RelativeDocumentMoniker": "WPFApp\\AddEditCustomerDialog.xaml.cs",
+              "ToolTip": "F:\\Ky 5\\PRN212\\HE180034_SE1819_A01\\PRN-FUMiniHotelManagement\\WPFApp\\AddEditCustomerDialog.xaml.cs",
+              "RelativeToolTip": "WPFApp\\AddEditCustomerDialog.xaml.cs",
+              "ViewState": "AQIAACkAAAAAAAAAAAAgwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T08:02:52.959Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ConfigurationManager.cs",
+              "DocumentMoniker": "F:\\Ky 5\\PRN212\\HE180034_SE1819_A01\\PRN-FUMiniHotelManagement\\WPFApp\\ConfigurationManager.cs",
+              "RelativeDocumentMoniker": "WPFApp\\ConfigurationManager.cs",
+              "ToolTip": "F:\\Ky 5\\PRN212\\HE180034_SE1819_A01\\PRN-FUMiniHotelManagement\\WPFApp\\ConfigurationManager.cs",
+              "RelativeToolTip": "WPFApp\\ConfigurationManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwBcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T07:49:24.076Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "F:\\Ky 5\\PRN212\\HE180034_SE1819_A01\\PRN-FUMiniHotelManagement\\WPFApp\\App.xaml.cs",
+              "RelativeDocumentMoniker": "WPFApp\\App.xaml.cs",
+              "ToolTip": "F:\\Ky 5\\PRN212\\HE180034_SE1819_A01\\PRN-FUMiniHotelManagement\\WPFApp\\App.xaml.cs",
+              "RelativeToolTip": "WPFApp\\App.xaml.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAA1wCQAAABTAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T07:56:31.852Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "CustomerManagement.xaml.cs",
+              "DocumentMoniker": "F:\\Ky 5\\PRN212\\HE180034_SE1819_A01\\PRN-FUMiniHotelManagement\\WPFApp\\CustomerManagement.xaml.cs",
+              "RelativeDocumentMoniker": "WPFApp\\CustomerManagement.xaml.cs",
+              "ToolTip": "F:\\Ky 5\\PRN212\\HE180034_SE1819_A01\\PRN-FUMiniHotelManagement\\WPFApp\\CustomerManagement.xaml.cs",
+              "RelativeToolTip": "WPFApp\\CustomerManagement.xaml.cs",
+              "ViewState": "AQIAAD0AAAAAAAAAAAAmwGIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T07:12:45.1Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "LoginWindow.xaml.cs",
+              "DocumentMoniker": "F:\\Ky 5\\PRN212\\HE180034_SE1819_A01\\PRN-FUMiniHotelManagement\\WPFApp\\LoginWindow.xaml.cs",
+              "RelativeDocumentMoniker": "WPFApp\\LoginWindow.xaml.cs",
+              "ToolTip": "F:\\Ky 5\\PRN212\\HE180034_SE1819_A01\\PRN-FUMiniHotelManagement\\WPFApp\\LoginWindow.xaml.cs",
+              "RelativeToolTip": "WPFApp\\LoginWindow.xaml.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAmwBwAAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T07:14:00.744Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "F:\\Ky 5\\PRN212\\HE180034_SE1819_A01\\PRN-FUMiniHotelManagement\\WPFApp\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "WPFApp\\MainWindow.xaml.cs",
+              "ToolTip": "F:\\Ky 5\\PRN212\\HE180034_SE1819_A01\\PRN-FUMiniHotelManagement\\WPFApp\\MainWindow.xaml.cs",
+              "RelativeToolTip": "WPFApp\\MainWindow.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T07:54:38.085Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ReportStatistics.xaml.cs",
+              "DocumentMoniker": "F:\\Ky 5\\PRN212\\HE180034_SE1819_A01\\PRN-FUMiniHotelManagement\\WPFApp\\ReportStatistics.xaml.cs",
+              "RelativeDocumentMoniker": "WPFApp\\ReportStatistics.xaml.cs",
+              "ToolTip": "F:\\Ky 5\\PRN212\\HE180034_SE1819_A01\\PRN-FUMiniHotelManagement\\WPFApp\\ReportStatistics.xaml.cs",
+              "RelativeToolTip": "WPFApp\\ReportStatistics.xaml.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAIwCsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T07:50:13.66Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "RoomManagement.xaml.cs",
+              "DocumentMoniker": "F:\\Ky 5\\PRN212\\HE180034_SE1819_A01\\PRN-FUMiniHotelManagement\\WPFApp\\RoomManagement.xaml.cs",
+              "RelativeDocumentMoniker": "WPFApp\\RoomManagement.xaml.cs",
+              "ToolTip": "F:\\Ky 5\\PRN212\\HE180034_SE1819_A01\\PRN-FUMiniHotelManagement\\WPFApp\\RoomManagement.xaml.cs",
+              "RelativeToolTip": "WPFApp\\RoomManagement.xaml.cs",
+              "ViewState": "AQIAAEMAAAAAAAAAAAAmwGgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T07:24:59.657Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "AdminWindow.xaml.cs",
+              "DocumentMoniker": "F:\\Ky 5\\PRN212\\HE180034_SE1819_A01\\PRN-FUMiniHotelManagement\\WPFApp\\AdminWindow.xaml.cs",
+              "RelativeDocumentMoniker": "WPFApp\\AdminWindow.xaml.cs",
+              "ToolTip": "F:\\Ky 5\\PRN212\\HE180034_SE1819_A01\\PRN-FUMiniHotelManagement\\WPFApp\\AdminWindow.xaml.cs",
+              "RelativeToolTip": "WPFApp\\AdminWindow.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T07:55:28.488Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "AddEditBookingDialog.xaml",
+              "DocumentMoniker": "F:\\Ky 5\\PRN212\\HE180034_SE1819_A01\\PRN-FUMiniHotelManagement\\WPFApp\\AddEditBookingDialog.xaml",
+              "RelativeDocumentMoniker": "WPFApp\\AddEditBookingDialog.xaml",
+              "ToolTip": "F:\\Ky 5\\PRN212\\HE180034_SE1819_A01\\PRN-FUMiniHotelManagement\\WPFApp\\AddEditBookingDialog.xaml",
+              "RelativeToolTip": "WPFApp\\AddEditBookingDialog.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-09T16:00:22.158Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "RoomRepository.cs",
+              "DocumentMoniker": "F:\\Ky 5\\PRN212\\HE180034_SE1819_A01\\PRN-FUMiniHotelManagement\\Repositories\\RoomRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\RoomRepository.cs",
+              "ToolTip": "F:\\Ky 5\\PRN212\\HE180034_SE1819_A01\\PRN-FUMiniHotelManagement\\Repositories\\RoomRepository.cs",
+              "RelativeToolTip": "Repositories\\RoomRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T07:09:50.515Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "BookingHistory.xaml",
+              "DocumentMoniker": "F:\\Ky 5\\PRN212\\HE180034_SE1819_A01\\PRN-FUMiniHotelManagement\\WPFApp\\BookingHistory.xaml",
+              "RelativeDocumentMoniker": "WPFApp\\BookingHistory.xaml",
+              "ToolTip": "F:\\Ky 5\\PRN212\\HE180034_SE1819_A01\\PRN-FUMiniHotelManagement\\WPFApp\\BookingHistory.xaml",
+              "RelativeToolTip": "WPFApp\\BookingHistory.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-09T16:01:31.44Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "RoomDTO.cs",
+              "DocumentMoniker": "F:\\Ky 5\\PRN212\\HE180034_SE1819_A01\\PRN-FUMiniHotelManagement\\DataAccessLayer\\DTO\\RoomDTO.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\DTO\\RoomDTO.cs",
+              "ToolTip": "F:\\Ky 5\\PRN212\\HE180034_SE1819_A01\\PRN-FUMiniHotelManagement\\DataAccessLayer\\DTO\\RoomDTO.cs",
+              "RelativeToolTip": "DataAccessLayer\\DTO\\RoomDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T16:08:19.701Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "ReportStatisticDTO.cs",
+              "DocumentMoniker": "F:\\Ky 5\\PRN212\\HE180034_SE1819_A01\\PRN-FUMiniHotelManagement\\DataAccessLayer\\DTO\\ReportStatisticDTO.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\DTO\\ReportStatisticDTO.cs",
+              "ToolTip": "F:\\Ky 5\\PRN212\\HE180034_SE1819_A01\\PRN-FUMiniHotelManagement\\DataAccessLayer\\DTO\\ReportStatisticDTO.cs",
+              "RelativeToolTip": "DataAccessLayer\\DTO\\ReportStatisticDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T16:08:16.186Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "F:\\Ky 5\\PRN212\\HE180034_SE1819_A01\\PRN-FUMiniHotelManagement\\WPFApp\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "WPFApp\\MainWindow.xaml",
+              "ToolTip": "F:\\Ky 5\\PRN212\\HE180034_SE1819_A01\\PRN-FUMiniHotelManagement\\WPFApp\\MainWindow.xaml",
+              "RelativeToolTip": "WPFApp\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-09T16:01:39.316Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "LoginWindow.xaml",
+              "DocumentMoniker": "F:\\Ky 5\\PRN212\\HE180034_SE1819_A01\\PRN-FUMiniHotelManagement\\WPFApp\\LoginWindow.xaml",
+              "RelativeDocumentMoniker": "WPFApp\\LoginWindow.xaml",
+              "ToolTip": "F:\\Ky 5\\PRN212\\HE180034_SE1819_A01\\PRN-FUMiniHotelManagement\\WPFApp\\LoginWindow.xaml",
+              "RelativeToolTip": "WPFApp\\LoginWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-09T16:01:35.525Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "CustomerManagement.xaml",
+              "DocumentMoniker": "F:\\Ky 5\\PRN212\\HE180034_SE1819_A01\\PRN-FUMiniHotelManagement\\WPFApp\\CustomerManagement.xaml",
+              "RelativeDocumentMoniker": "WPFApp\\CustomerManagement.xaml",
+              "ToolTip": "F:\\Ky 5\\PRN212\\HE180034_SE1819_A01\\PRN-FUMiniHotelManagement\\WPFApp\\CustomerManagement.xaml",
+              "RelativeToolTip": "WPFApp\\CustomerManagement.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-09T16:01:33.99Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "RoomDAO.cs",
+              "DocumentMoniker": "F:\\Ky 5\\PRN212\\HE180034_SE1819_A01\\PRN-FUMiniHotelManagement\\DataAccessLayer\\RoomDAO.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\RoomDAO.cs",
+              "ToolTip": "F:\\Ky 5\\PRN212\\HE180034_SE1819_A01\\PRN-FUMiniHotelManagement\\DataAccessLayer\\RoomDAO.cs",
+              "RelativeToolTip": "DataAccessLayer\\RoomDAO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T07:15:36.351Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "ProfileManagement.xaml.cs",
+              "DocumentMoniker": "F:\\Ky 5\\PRN212\\HE180034_SE1819_A01\\PRN-FUMiniHotelManagement\\WPFApp\\ProfileManagement.xaml.cs",
+              "RelativeDocumentMoniker": "WPFApp\\ProfileManagement.xaml.cs",
+              "ToolTip": "F:\\Ky 5\\PRN212\\HE180034_SE1819_A01\\PRN-FUMiniHotelManagement\\WPFApp\\ProfileManagement.xaml.cs",
+              "RelativeToolTip": "WPFApp\\ProfileManagement.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACcAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T07:14:08.452Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "F:\\Ky 5\\PRN212\\HE180034_SE1819_A01\\PRN-FUMiniHotelManagement\\WPFApp\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "WPFApp\\AssemblyInfo.cs",
+              "ToolTip": "F:\\Ky 5\\PRN212\\HE180034_SE1819_A01\\PRN-FUMiniHotelManagement\\WPFApp\\AssemblyInfo.cs",
+              "RelativeToolTip": "WPFApp\\AssemblyInfo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T07:50:07.771Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "ProfileManagement.xaml",
+              "DocumentMoniker": "F:\\Ky 5\\PRN212\\HE180034_SE1819_A01\\PRN-FUMiniHotelManagement\\WPFApp\\ProfileManagement.xaml",
+              "RelativeDocumentMoniker": "WPFApp\\ProfileManagement.xaml",
+              "ToolTip": "F:\\Ky 5\\PRN212\\HE180034_SE1819_A01\\PRN-FUMiniHotelManagement\\WPFApp\\ProfileManagement.xaml",
+              "RelativeToolTip": "WPFApp\\ProfileManagement.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-09T16:01:43.009Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "RoomManagement.xaml",
+              "DocumentMoniker": "F:\\Ky 5\\PRN212\\HE180034_SE1819_A01\\PRN-FUMiniHotelManagement\\WPFApp\\RoomManagement.xaml",
+              "RelativeDocumentMoniker": "WPFApp\\RoomManagement.xaml",
+              "ToolTip": "F:\\Ky 5\\PRN212\\HE180034_SE1819_A01\\PRN-FUMiniHotelManagement\\WPFApp\\RoomManagement.xaml",
+              "RelativeToolTip": "WPFApp\\RoomManagement.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-09T16:01:48.26Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "AddEditRoomDialog.xaml",
+              "DocumentMoniker": "F:\\Ky 5\\PRN212\\HE180034_SE1819_A01\\PRN-FUMiniHotelManagement\\WPFApp\\AddEditRoomDialog.xaml",
+              "RelativeDocumentMoniker": "WPFApp\\AddEditRoomDialog.xaml",
+              "ToolTip": "F:\\Ky 5\\PRN212\\HE180034_SE1819_A01\\PRN-FUMiniHotelManagement\\WPFApp\\AddEditRoomDialog.xaml",
+              "RelativeToolTip": "WPFApp\\AddEditRoomDialog.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-10T07:22:50.682Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "IRoomService.cs",
+              "DocumentMoniker": "F:\\Ky 5\\PRN212\\HE180034_SE1819_A01\\PRN-FUMiniHotelManagement\\Services\\Interface\\IRoomService.cs",
+              "RelativeDocumentMoniker": "Services\\Interface\\IRoomService.cs",
+              "ToolTip": "F:\\Ky 5\\PRN212\\HE180034_SE1819_A01\\PRN-FUMiniHotelManagement\\Services\\Interface\\IRoomService.cs",
+              "RelativeToolTip": "Services\\Interface\\IRoomService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T07:18:53.538Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "RoomService.cs",
+              "DocumentMoniker": "F:\\Ky 5\\PRN212\\HE180034_SE1819_A01\\PRN-FUMiniHotelManagement\\Services\\RoomService.cs",
+              "RelativeDocumentMoniker": "Services\\RoomService.cs",
+              "ToolTip": "F:\\Ky 5\\PRN212\\HE180034_SE1819_A01\\PRN-FUMiniHotelManagement\\Services\\RoomService.cs",
+              "RelativeToolTip": "Services\\RoomService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T07:18:46.499Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "RoomType.cs",
+              "DocumentMoniker": "F:\\Ky 5\\PRN212\\HE180034_SE1819_A01\\PRN-FUMiniHotelManagement\\BusinessObjects\\RoomType.cs",
+              "RelativeDocumentMoniker": "BusinessObjects\\RoomType.cs",
+              "ToolTip": "F:\\Ky 5\\PRN212\\HE180034_SE1819_A01\\PRN-FUMiniHotelManagement\\BusinessObjects\\RoomType.cs",
+              "RelativeToolTip": "BusinessObjects\\RoomType.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T16:07:20.375Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "FuminiHotelManagementContext.cs",
+              "DocumentMoniker": "F:\\Ky 5\\PRN212\\HE180034_SE1819_A01\\PRN-FUMiniHotelManagement\\DataAccessLayer\\FuminiHotelManagementContext.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\FuminiHotelManagementContext.cs",
+              "ToolTip": "F:\\Ky 5\\PRN212\\HE180034_SE1819_A01\\PRN-FUMiniHotelManagement\\DataAccessLayer\\FuminiHotelManagementContext.cs",
+              "RelativeToolTip": "DataAccessLayer\\FuminiHotelManagementContext.cs",
+              "ViewState": "AQIAACwAAAAAAAAAAAAUwC4AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T12:47:20.161Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "RoomInformation.cs",
+              "DocumentMoniker": "F:\\Ky 5\\PRN212\\HE180034_SE1819_A01\\PRN-FUMiniHotelManagement\\BusinessObjects\\RoomInformation.cs",
+              "RelativeDocumentMoniker": "BusinessObjects\\RoomInformation.cs",
+              "ToolTip": "F:\\Ky 5\\PRN212\\HE180034_SE1819_A01\\PRN-FUMiniHotelManagement\\BusinessObjects\\RoomInformation.cs",
+              "RelativeToolTip": "BusinessObjects\\RoomInformation.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T16:07:19.733Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "F:\\Ky 5\\PRN212\\HE180034_SE1819_A01\\PRN-FUMiniHotelManagement\\BusinessObjects\\Customer.cs",
+              "RelativeDocumentMoniker": "BusinessObjects\\Customer.cs",
+              "ToolTip": "F:\\Ky 5\\PRN212\\HE180034_SE1819_A01\\PRN-FUMiniHotelManagement\\BusinessObjects\\Customer.cs",
+              "RelativeToolTip": "BusinessObjects\\Customer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T16:07:19.04Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "ReportStatistics.xaml",
+              "DocumentMoniker": "F:\\Ky 5\\PRN212\\HE180034_SE1819_A01\\PRN-FUMiniHotelManagement\\WPFApp\\ReportStatistics.xaml",
+              "RelativeDocumentMoniker": "WPFApp\\ReportStatistics.xaml",
+              "ToolTip": "F:\\Ky 5\\PRN212\\HE180034_SE1819_A01\\PRN-FUMiniHotelManagement\\WPFApp\\ReportStatistics.xaml",
+              "RelativeToolTip": "WPFApp\\ReportStatistics.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-09T16:01:46.308Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "IRoomRepository.cs",
+              "DocumentMoniker": "F:\\Ky 5\\PRN212\\HE180034_SE1819_A01\\PRN-FUMiniHotelManagement\\Repositories\\Interface\\IRoomRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\Interface\\IRoomRepository.cs",
+              "ToolTip": "F:\\Ky 5\\PRN212\\HE180034_SE1819_A01\\PRN-FUMiniHotelManagement\\Repositories\\Interface\\IRoomRepository.cs",
+              "RelativeToolTip": "Repositories\\Interface\\IRoomRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T07:18:36.684Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "BookingReservation.cs",
+              "DocumentMoniker": "F:\\Ky 5\\PRN212\\HE180034_SE1819_A01\\PRN-FUMiniHotelManagement\\BusinessObjects\\BookingReservation.cs",
+              "RelativeDocumentMoniker": "BusinessObjects\\BookingReservation.cs",
+              "ToolTip": "F:\\Ky 5\\PRN212\\HE180034_SE1819_A01\\PRN-FUMiniHotelManagement\\BusinessObjects\\BookingReservation.cs",
+              "RelativeToolTip": "BusinessObjects\\BookingReservation.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T16:07:18.313Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "BookingDetail.cs",
+              "DocumentMoniker": "F:\\Ky 5\\PRN212\\HE180034_SE1819_A01\\PRN-FUMiniHotelManagement\\BusinessObjects\\BookingDetail.cs",
+              "RelativeDocumentMoniker": "BusinessObjects\\BookingDetail.cs",
+              "ToolTip": "F:\\Ky 5\\PRN212\\HE180034_SE1819_A01\\PRN-FUMiniHotelManagement\\BusinessObjects\\BookingDetail.cs",
+              "RelativeToolTip": "BusinessObjects\\BookingDetail.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T16:07:16.841Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "ICustomerService.cs",
+              "DocumentMoniker": "F:\\Ky 5\\PRN212\\HE180034_SE1819_A01\\PRN-FUMiniHotelManagement\\Services\\Interface\\ICustomerService.cs",
+              "RelativeDocumentMoniker": "Services\\Interface\\ICustomerService.cs",
+              "ToolTip": "F:\\Ky 5\\PRN212\\HE180034_SE1819_A01\\PRN-FUMiniHotelManagement\\Services\\Interface\\ICustomerService.cs",
+              "RelativeToolTip": "Services\\Interface\\ICustomerService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T07:11:45.502Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "CustomerService.cs",
+              "DocumentMoniker": "F:\\Ky 5\\PRN212\\HE180034_SE1819_A01\\PRN-FUMiniHotelManagement\\Services\\CustomerService.cs",
+              "RelativeDocumentMoniker": "Services\\CustomerService.cs",
+              "ToolTip": "F:\\Ky 5\\PRN212\\HE180034_SE1819_A01\\PRN-FUMiniHotelManagement\\Services\\CustomerService.cs",
+              "RelativeToolTip": "Services\\CustomerService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T07:09:52.225Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "ICustomerRepository.cs",
+              "DocumentMoniker": "F:\\Ky 5\\PRN212\\HE180034_SE1819_A01\\PRN-FUMiniHotelManagement\\Repositories\\Interface\\ICustomerRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\Interface\\ICustomerRepository.cs",
+              "ToolTip": "F:\\Ky 5\\PRN212\\HE180034_SE1819_A01\\PRN-FUMiniHotelManagement\\Repositories\\Interface\\ICustomerRepository.cs",
+              "RelativeToolTip": "Repositories\\Interface\\ICustomerRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T07:09:17.904Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "CustomerRepository.cs",
+              "DocumentMoniker": "F:\\Ky 5\\PRN212\\HE180034_SE1819_A01\\PRN-FUMiniHotelManagement\\Repositories\\CustomerRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\CustomerRepository.cs",
+              "ToolTip": "F:\\Ky 5\\PRN212\\HE180034_SE1819_A01\\PRN-FUMiniHotelManagement\\Repositories\\CustomerRepository.cs",
+              "RelativeToolTip": "Repositories\\CustomerRepository.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T07:08:55.67Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "CustomerDAO.cs",
+              "DocumentMoniker": "F:\\Ky 5\\PRN212\\HE180034_SE1819_A01\\PRN-FUMiniHotelManagement\\DataAccessLayer\\CustomerDAO.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\CustomerDAO.cs",
+              "ToolTip": "F:\\Ky 5\\PRN212\\HE180034_SE1819_A01\\PRN-FUMiniHotelManagement\\DataAccessLayer\\CustomerDAO.cs",
+              "RelativeToolTip": "DataAccessLayer\\CustomerDAO.cs",
+              "ViewState": "AQIAAFIAAAAAAAAAAAAwwA4AAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T16:08:34.416Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,668 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\Ky 5\\PRN212\\HE180034_SE1819_A01\\HE180034_SE1819_A01\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7B1C5F7D-E98D-4C5E-9B25-44C942F60AF7}|WPFApp\\WPFApp.csproj|F:\\Ky 5\\PRN212\\HE180034_SE1819_A01\\HE180034_SE1819_A01\\wpfapp\\addeditroomdialog.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B1C5F7D-E98D-4C5E-9B25-44C942F60AF7}|WPFApp\\WPFApp.csproj|solutionrelative:wpfapp\\addeditroomdialog.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B1C5F7D-E98D-4C5E-9B25-44C942F60AF7}|WPFApp\\WPFApp.csproj|F:\\Ky 5\\PRN212\\HE180034_SE1819_A01\\HE180034_SE1819_A01\\wpfapp\\addeditcustomerdialog.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B1C5F7D-E98D-4C5E-9B25-44C942F60AF7}|WPFApp\\WPFApp.csproj|solutionrelative:wpfapp\\addeditcustomerdialog.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B7150F9-814A-4FD8-AD63-21CEAECE9908}|DataAccessLayer\\DataAccessLayer.csproj|F:\\Ky 5\\PRN212\\HE180034_SE1819_A01\\HE180034_SE1819_A01\\dataaccesslayer\\customerdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B7150F9-814A-4FD8-AD63-21CEAECE9908}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\customerdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{384E3D5E-A7E5-4BC4-9C28-5936FF3B2B30}|BusinessObjects\\BusinessObjects.csproj|F:\\Ky 5\\PRN212\\HE180034_SE1819_A01\\HE180034_SE1819_A01\\businessobjects\\roominformation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{384E3D5E-A7E5-4BC4-9C28-5936FF3B2B30}|BusinessObjects\\BusinessObjects.csproj|solutionrelative:businessobjects\\roominformation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B7150F9-814A-4FD8-AD63-21CEAECE9908}|DataAccessLayer\\DataAccessLayer.csproj|F:\\Ky 5\\PRN212\\HE180034_SE1819_A01\\HE180034_SE1819_A01\\dataaccesslayer\\dto\\roomdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B7150F9-814A-4FD8-AD63-21CEAECE9908}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\dto\\roomdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{384E3D5E-A7E5-4BC4-9C28-5936FF3B2B30}|BusinessObjects\\BusinessObjects.csproj|F:\\Ky 5\\PRN212\\HE180034_SE1819_A01\\HE180034_SE1819_A01\\businessobjects\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{384E3D5E-A7E5-4BC4-9C28-5936FF3B2B30}|BusinessObjects\\BusinessObjects.csproj|solutionrelative:businessobjects\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B7150F9-814A-4FD8-AD63-21CEAECE9908}|DataAccessLayer\\DataAccessLayer.csproj|F:\\Ky 5\\PRN212\\HE180034_SE1819_A01\\HE180034_SE1819_A01\\dataaccesslayer\\dto\\customerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B7150F9-814A-4FD8-AD63-21CEAECE9908}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\dto\\customerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B7150F9-814A-4FD8-AD63-21CEAECE9908}|DataAccessLayer\\DataAccessLayer.csproj|f:\\ky 5\\prn212\\he180034_se1819_a01\\he180034_se1819_a01\\dataaccesslayer\\fuminihotelmanagementcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B7150F9-814A-4FD8-AD63-21CEAECE9908}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\fuminihotelmanagementcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B7150F9-814A-4FD8-AD63-21CEAECE9908}|DataAccessLayer\\DataAccessLayer.csproj|F:\\Ky 5\\PRN212\\HE180034_SE1819_A01\\HE180034_SE1819_A01\\dataaccesslayer\\roomdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B7150F9-814A-4FD8-AD63-21CEAECE9908}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\roomdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B1C5F7D-E98D-4C5E-9B25-44C942F60AF7}|WPFApp\\WPFApp.csproj|F:\\Ky 5\\PRN212\\HE180034_SE1819_A01\\HE180034_SE1819_A01\\wpfapp\\adminwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B1C5F7D-E98D-4C5E-9B25-44C942F60AF7}|WPFApp\\WPFApp.csproj|solutionrelative:wpfapp\\adminwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B1C5F7D-E98D-4C5E-9B25-44C942F60AF7}|WPFApp\\WPFApp.csproj|F:\\Ky 5\\PRN212\\HE180034_SE1819_A01\\HE180034_SE1819_A01\\wpfapp\\customermanagement.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B1C5F7D-E98D-4C5E-9B25-44C942F60AF7}|WPFApp\\WPFApp.csproj|solutionrelative:wpfapp\\customermanagement.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{384E3D5E-A7E5-4BC4-9C28-5936FF3B2B30}|BusinessObjects\\BusinessObjects.csproj|F:\\Ky 5\\PRN212\\HE180034_SE1819_A01\\HE180034_SE1819_A01\\businessobjects\\bookingdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{384E3D5E-A7E5-4BC4-9C28-5936FF3B2B30}|BusinessObjects\\BusinessObjects.csproj|solutionrelative:businessobjects\\bookingdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D650E3A-325C-48CB-9A3E-ACA2A077DA11}|Repositories\\Repositories.csproj|F:\\Ky 5\\PRN212\\HE180034_SE1819_A01\\HE180034_SE1819_A01\\repositories\\interface\\icustomerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D650E3A-325C-48CB-9A3E-ACA2A077DA11}|Repositories\\Repositories.csproj|solutionrelative:repositories\\interface\\icustomerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CAEC882-01A2-42A2-BE20-34B0406F1B10}|Services\\Services.csproj|F:\\Ky 5\\PRN212\\HE180034_SE1819_A01\\HE180034_SE1819_A01\\services\\interface\\icustomerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CAEC882-01A2-42A2-BE20-34B0406F1B10}|Services\\Services.csproj|solutionrelative:services\\interface\\icustomerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D650E3A-325C-48CB-9A3E-ACA2A077DA11}|Repositories\\Repositories.csproj|F:\\Ky 5\\PRN212\\HE180034_SE1819_A01\\HE180034_SE1819_A01\\repositories\\customerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D650E3A-325C-48CB-9A3E-ACA2A077DA11}|Repositories\\Repositories.csproj|solutionrelative:repositories\\customerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CAEC882-01A2-42A2-BE20-34B0406F1B10}|Services\\Services.csproj|F:\\Ky 5\\PRN212\\HE180034_SE1819_A01\\HE180034_SE1819_A01\\services\\customerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CAEC882-01A2-42A2-BE20-34B0406F1B10}|Services\\Services.csproj|solutionrelative:services\\customerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D650E3A-325C-48CB-9A3E-ACA2A077DA11}|Repositories\\Repositories.csproj|F:\\Ky 5\\PRN212\\HE180034_SE1819_A01\\HE180034_SE1819_A01\\repositories\\roomrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D650E3A-325C-48CB-9A3E-ACA2A077DA11}|Repositories\\Repositories.csproj|solutionrelative:repositories\\roomrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B1C5F7D-E98D-4C5E-9B25-44C942F60AF7}|WPFApp\\WPFApp.csproj|F:\\Ky 5\\PRN212\\HE180034_SE1819_A01\\HE180034_SE1819_A01\\wpfapp\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B1C5F7D-E98D-4C5E-9B25-44C942F60AF7}|WPFApp\\WPFApp.csproj|solutionrelative:wpfapp\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{384E3D5E-A7E5-4BC4-9C28-5936FF3B2B30}|BusinessObjects\\BusinessObjects.csproj|F:\\Ky 5\\PRN212\\HE180034_SE1819_A01\\HE180034_SE1819_A01\\businessobjects\\bookingreservation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{384E3D5E-A7E5-4BC4-9C28-5936FF3B2B30}|BusinessObjects\\BusinessObjects.csproj|solutionrelative:businessobjects\\bookingreservation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{384E3D5E-A7E5-4BC4-9C28-5936FF3B2B30}|BusinessObjects\\BusinessObjects.csproj|F:\\Ky 5\\PRN212\\HE180034_SE1819_A01\\HE180034_SE1819_A01\\businessobjects\\roomtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{384E3D5E-A7E5-4BC4-9C28-5936FF3B2B30}|BusinessObjects\\BusinessObjects.csproj|solutionrelative:businessobjects\\roomtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B1C5F7D-E98D-4C5E-9B25-44C942F60AF7}|WPFApp\\WPFApp.csproj|F:\\Ky 5\\PRN212\\HE180034_SE1819_A01\\HE180034_SE1819_A01\\wpfapp\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{7B1C5F7D-E98D-4C5E-9B25-44C942F60AF7}|WPFApp\\WPFApp.csproj|solutionrelative:wpfapp\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B7150F9-814A-4FD8-AD63-21CEAECE9908}|DataAccessLayer\\DataAccessLayer.csproj|F:\\Ky 5\\PRN212\\HE180034_SE1819_A01\\HE180034_SE1819_A01\\dataaccesslayer\\dataaccesslayer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{2B7150F9-814A-4FD8-AD63-21CEAECE9908}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\dataaccesslayer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D650E3A-325C-48CB-9A3E-ACA2A077DA11}|Repositories\\Repositories.csproj|F:\\Ky 5\\PRN212\\HE180034_SE1819_A01\\HE180034_SE1819_A01\\repositories\\interface\\iroomrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D650E3A-325C-48CB-9A3E-ACA2A077DA11}|Repositories\\Repositories.csproj|solutionrelative:repositories\\interface\\iroomrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B1C5F7D-E98D-4C5E-9B25-44C942F60AF7}|WPFApp\\WPFApp.csproj|F:\\Ky 5\\PRN212\\HE180034_SE1819_A01\\HE180034_SE1819_A01\\wpfapp\\loginwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B1C5F7D-E98D-4C5E-9B25-44C942F60AF7}|WPFApp\\WPFApp.csproj|solutionrelative:wpfapp\\loginwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B1C5F7D-E98D-4C5E-9B25-44C942F60AF7}|WPFApp\\WPFApp.csproj|F:\\Ky 5\\PRN212\\HE180034_SE1819_A01\\HE180034_SE1819_A01\\wpfapp\\loginwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{7B1C5F7D-E98D-4C5E-9B25-44C942F60AF7}|WPFApp\\WPFApp.csproj|solutionrelative:wpfapp\\loginwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B1C5F7D-E98D-4C5E-9B25-44C942F60AF7}|WPFApp\\WPFApp.csproj|F:\\Ky 5\\PRN212\\HE180034_SE1819_A01\\HE180034_SE1819_A01\\wpfapp\\customermanagement.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{7B1C5F7D-E98D-4C5E-9B25-44C942F60AF7}|WPFApp\\WPFApp.csproj|solutionrelative:wpfapp\\customermanagement.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B1C5F7D-E98D-4C5E-9B25-44C942F60AF7}|WPFApp\\WPFApp.csproj|F:\\Ky 5\\PRN212\\HE180034_SE1819_A01\\HE180034_SE1819_A01\\wpfapp\\adminwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{7B1C5F7D-E98D-4C5E-9B25-44C942F60AF7}|WPFApp\\WPFApp.csproj|solutionrelative:wpfapp\\adminwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B1C5F7D-E98D-4C5E-9B25-44C942F60AF7}|WPFApp\\WPFApp.csproj|F:\\Ky 5\\PRN212\\HE180034_SE1819_A01\\HE180034_SE1819_A01\\wpfapp\\configurationmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B1C5F7D-E98D-4C5E-9B25-44C942F60AF7}|WPFApp\\WPFApp.csproj|solutionrelative:wpfapp\\configurationmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B1C5F7D-E98D-4C5E-9B25-44C942F60AF7}|WPFApp\\WPFApp.csproj|F:\\Ky 5\\PRN212\\HE180034_SE1819_A01\\HE180034_SE1819_A01\\wpfapp\\addeditroomdialog.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{7B1C5F7D-E98D-4C5E-9B25-44C942F60AF7}|WPFApp\\WPFApp.csproj|solutionrelative:wpfapp\\addeditroomdialog.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B1C5F7D-E98D-4C5E-9B25-44C942F60AF7}|WPFApp\\WPFApp.csproj|F:\\Ky 5\\PRN212\\HE180034_SE1819_A01\\HE180034_SE1819_A01\\wpfapp\\addeditcustomerdialog.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{7B1C5F7D-E98D-4C5E-9B25-44C942F60AF7}|WPFApp\\WPFApp.csproj|solutionrelative:wpfapp\\addeditcustomerdialog.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B1C5F7D-E98D-4C5E-9B25-44C942F60AF7}|WPFApp\\WPFApp.csproj|F:\\Ky 5\\PRN212\\HE180034_SE1819_A01\\HE180034_SE1819_A01\\wpfapp\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B1C5F7D-E98D-4C5E-9B25-44C942F60AF7}|WPFApp\\WPFApp.csproj|solutionrelative:wpfapp\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B1C5F7D-E98D-4C5E-9B25-44C942F60AF7}|WPFApp\\WPFApp.csproj|F:\\Ky 5\\PRN212\\HE180034_SE1819_A01\\HE180034_SE1819_A01\\wpfapp\\profilemanagement.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{7B1C5F7D-E98D-4C5E-9B25-44C942F60AF7}|WPFApp\\WPFApp.csproj|solutionrelative:wpfapp\\profilemanagement.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B1C5F7D-E98D-4C5E-9B25-44C942F60AF7}|WPFApp\\WPFApp.csproj|F:\\Ky 5\\PRN212\\HE180034_SE1819_A01\\HE180034_SE1819_A01\\wpfapp\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{7B1C5F7D-E98D-4C5E-9B25-44C942F60AF7}|WPFApp\\WPFApp.csproj|solutionrelative:wpfapp\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B1C5F7D-E98D-4C5E-9B25-44C942F60AF7}|WPFApp\\WPFApp.csproj|F:\\Ky 5\\PRN212\\HE180034_SE1819_A01\\HE180034_SE1819_A01\\wpfapp\\roommanagement.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{7B1C5F7D-E98D-4C5E-9B25-44C942F60AF7}|WPFApp\\WPFApp.csproj|solutionrelative:wpfapp\\roommanagement.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CAEC882-01A2-42A2-BE20-34B0406F1B10}|Services\\Services.csproj|F:\\Ky 5\\PRN212\\HE180034_SE1819_A01\\HE180034_SE1819_A01\\services\\interface\\iroomservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CAEC882-01A2-42A2-BE20-34B0406F1B10}|Services\\Services.csproj|solutionrelative:services\\interface\\iroomservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CAEC882-01A2-42A2-BE20-34B0406F1B10}|Services\\Services.csproj|F:\\Ky 5\\PRN212\\HE180034_SE1819_A01\\HE180034_SE1819_A01\\services\\roomservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CAEC882-01A2-42A2-BE20-34B0406F1B10}|Services\\Services.csproj|solutionrelative:services\\roomservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B1C5F7D-E98D-4C5E-9B25-44C942F60AF7}|WPFApp\\WPFApp.csproj|F:\\Ky 5\\PRN212\\HE180034_SE1819_A01\\HE180034_SE1819_A01\\wpfapp\\profilemanagement.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B1C5F7D-E98D-4C5E-9B25-44C942F60AF7}|WPFApp\\WPFApp.csproj|solutionrelative:wpfapp\\profilemanagement.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B1C5F7D-E98D-4C5E-9B25-44C942F60AF7}|WPFApp\\WPFApp.csproj|F:\\Ky 5\\PRN212\\HE180034_SE1819_A01\\HE180034_SE1819_A01\\wpfapp\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B1C5F7D-E98D-4C5E-9B25-44C942F60AF7}|WPFApp\\WPFApp.csproj|solutionrelative:wpfapp\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B1C5F7D-E98D-4C5E-9B25-44C942F60AF7}|WPFApp\\WPFApp.csproj|F:\\Ky 5\\PRN212\\HE180034_SE1819_A01\\HE180034_SE1819_A01\\wpfapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{7B1C5F7D-E98D-4C5E-9B25-44C942F60AF7}|WPFApp\\WPFApp.csproj|solutionrelative:wpfapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{57d563b6-44a5-47df-85be-f4199ad6b651}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:3:0:{57d563b6-44a5-47df-85be-f4199ad6b651}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:6:0:{57d563b6-44a5-47df-85be-f4199ad6b651}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "F:\\Ky 5\\PRN212\\HE180034_SE1819_A01\\HE180034_SE1819_A01\\BusinessObjects\\Customer.cs",
+              "RelativeDocumentMoniker": "BusinessObjects\\Customer.cs",
+              "ToolTip": "F:\\Ky 5\\PRN212\\HE180034_SE1819_A01\\HE180034_SE1819_A01\\BusinessObjects\\Customer.cs",
+              "RelativeToolTip": "BusinessObjects\\Customer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T08:57:22.728Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RoomDTO.cs",
+              "DocumentMoniker": "F:\\Ky 5\\PRN212\\HE180034_SE1819_A01\\HE180034_SE1819_A01\\DataAccessLayer\\DTO\\RoomDTO.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\DTO\\RoomDTO.cs",
+              "ToolTip": "F:\\Ky 5\\PRN212\\HE180034_SE1819_A01\\HE180034_SE1819_A01\\DataAccessLayer\\DTO\\RoomDTO.cs",
+              "RelativeToolTip": "DataAccessLayer\\DTO\\RoomDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T11:14:42.57Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RoomInformation.cs",
+              "DocumentMoniker": "F:\\Ky 5\\PRN212\\HE180034_SE1819_A01\\HE180034_SE1819_A01\\BusinessObjects\\RoomInformation.cs",
+              "RelativeDocumentMoniker": "BusinessObjects\\RoomInformation.cs",
+              "ToolTip": "F:\\Ky 5\\PRN212\\HE180034_SE1819_A01\\HE180034_SE1819_A01\\BusinessObjects\\RoomInformation.cs",
+              "RelativeToolTip": "BusinessObjects\\RoomInformation.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABcAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T08:57:23.65Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CustomerDAO.cs",
+              "DocumentMoniker": "F:\\Ky 5\\PRN212\\HE180034_SE1819_A01\\HE180034_SE1819_A01\\DataAccessLayer\\CustomerDAO.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\CustomerDAO.cs",
+              "ToolTip": "F:\\Ky 5\\PRN212\\HE180034_SE1819_A01\\HE180034_SE1819_A01\\DataAccessLayer\\CustomerDAO.cs",
+              "RelativeToolTip": "DataAccessLayer\\CustomerDAO.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAAAgwC4AAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T09:10:31.676Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AddEditCustomerDialog.xaml.cs",
+              "DocumentMoniker": "F:\\Ky 5\\PRN212\\HE180034_SE1819_A01\\HE180034_SE1819_A01\\WPFApp\\AddEditCustomerDialog.xaml.cs",
+              "RelativeDocumentMoniker": "WPFApp\\AddEditCustomerDialog.xaml.cs",
+              "ToolTip": "F:\\Ky 5\\PRN212\\HE180034_SE1819_A01\\HE180034_SE1819_A01\\WPFApp\\AddEditCustomerDialog.xaml.cs",
+              "RelativeToolTip": "WPFApp\\AddEditCustomerDialog.xaml.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAYwCsAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T09:16:13.479Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AddEditRoomDialog.xaml.cs",
+              "DocumentMoniker": "F:\\Ky 5\\PRN212\\HE180034_SE1819_A01\\HE180034_SE1819_A01\\WPFApp\\AddEditRoomDialog.xaml.cs",
+              "RelativeDocumentMoniker": "WPFApp\\AddEditRoomDialog.xaml.cs",
+              "ToolTip": "F:\\Ky 5\\PRN212\\HE180034_SE1819_A01\\HE180034_SE1819_A01\\WPFApp\\AddEditRoomDialog.xaml.cs",
+              "RelativeToolTip": "WPFApp\\AddEditRoomDialog.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACkAAABGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T09:16:21.406Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CustomerDTO.cs",
+              "DocumentMoniker": "F:\\Ky 5\\PRN212\\HE180034_SE1819_A01\\HE180034_SE1819_A01\\DataAccessLayer\\DTO\\CustomerDTO.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\DTO\\CustomerDTO.cs",
+              "ToolTip": "F:\\Ky 5\\PRN212\\HE180034_SE1819_A01\\HE180034_SE1819_A01\\DataAccessLayer\\DTO\\CustomerDTO.cs",
+              "RelativeToolTip": "DataAccessLayer\\DTO\\CustomerDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T08:57:30.426Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FuminiHotelManagementContext.cs",
+              "DocumentMoniker": "F:\\Ky 5\\PRN212\\HE180034_SE1819_A01\\HE180034_SE1819_A01\\DataAccessLayer\\FuminiHotelManagementContext.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\FuminiHotelManagementContext.cs",
+              "ToolTip": "F:\\Ky 5\\PRN212\\HE180034_SE1819_A01\\HE180034_SE1819_A01\\DataAccessLayer\\FuminiHotelManagementContext.cs",
+              "RelativeToolTip": "DataAccessLayer\\FuminiHotelManagementContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T08:57:40.617Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "RoomDAO.cs",
+              "DocumentMoniker": "F:\\Ky 5\\PRN212\\HE180034_SE1819_A01\\HE180034_SE1819_A01\\DataAccessLayer\\RoomDAO.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\RoomDAO.cs",
+              "ToolTip": "F:\\Ky 5\\PRN212\\HE180034_SE1819_A01\\HE180034_SE1819_A01\\DataAccessLayer\\RoomDAO.cs",
+              "RelativeToolTip": "DataAccessLayer\\RoomDAO.cs",
+              "ViewState": "AQIAAD0AAAAAAAAAAAAkwEwAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T08:58:00.731Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CustomerManagement.xaml.cs",
+              "DocumentMoniker": "F:\\Ky 5\\PRN212\\HE180034_SE1819_A01\\HE180034_SE1819_A01\\WPFApp\\CustomerManagement.xaml.cs",
+              "RelativeDocumentMoniker": "WPFApp\\CustomerManagement.xaml.cs",
+              "ToolTip": "F:\\Ky 5\\PRN212\\HE180034_SE1819_A01\\HE180034_SE1819_A01\\WPFApp\\CustomerManagement.xaml.cs",
+              "RelativeToolTip": "WPFApp\\CustomerManagement.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADkAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T08:45:55.062Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AdminWindow.xaml.cs",
+              "DocumentMoniker": "F:\\Ky 5\\PRN212\\HE180034_SE1819_A01\\HE180034_SE1819_A01\\WPFApp\\AdminWindow.xaml.cs",
+              "RelativeDocumentMoniker": "WPFApp\\AdminWindow.xaml.cs",
+              "ToolTip": "F:\\Ky 5\\PRN212\\HE180034_SE1819_A01\\HE180034_SE1819_A01\\WPFApp\\AdminWindow.xaml.cs",
+              "RelativeToolTip": "WPFApp\\AdminWindow.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T08:41:13.996Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "BookingDetail.cs",
+              "DocumentMoniker": "F:\\Ky 5\\PRN212\\HE180034_SE1819_A01\\HE180034_SE1819_A01\\BusinessObjects\\BookingDetail.cs",
+              "RelativeDocumentMoniker": "BusinessObjects\\BookingDetail.cs",
+              "ToolTip": "F:\\Ky 5\\PRN212\\HE180034_SE1819_A01\\HE180034_SE1819_A01\\BusinessObjects\\BookingDetail.cs",
+              "RelativeToolTip": "BusinessObjects\\BookingDetail.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T08:57:13.559Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ICustomerRepository.cs",
+              "DocumentMoniker": "F:\\Ky 5\\PRN212\\HE180034_SE1819_A01\\HE180034_SE1819_A01\\Repositories\\Interface\\ICustomerRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\Interface\\ICustomerRepository.cs",
+              "ToolTip": "F:\\Ky 5\\PRN212\\HE180034_SE1819_A01\\HE180034_SE1819_A01\\Repositories\\Interface\\ICustomerRepository.cs",
+              "RelativeToolTip": "Repositories\\Interface\\ICustomerRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAABFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T17:53:45.491Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "CustomerRepository.cs",
+              "DocumentMoniker": "F:\\Ky 5\\PRN212\\HE180034_SE1819_A01\\HE180034_SE1819_A01\\Repositories\\CustomerRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\CustomerRepository.cs",
+              "ToolTip": "F:\\Ky 5\\PRN212\\HE180034_SE1819_A01\\HE180034_SE1819_A01\\Repositories\\CustomerRepository.cs",
+              "RelativeToolTip": "Repositories\\CustomerRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAcAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T17:53:24.291Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ICustomerService.cs",
+              "DocumentMoniker": "F:\\Ky 5\\PRN212\\HE180034_SE1819_A01\\HE180034_SE1819_A01\\Services\\Interface\\ICustomerService.cs",
+              "RelativeDocumentMoniker": "Services\\Interface\\ICustomerService.cs",
+              "ToolTip": "F:\\Ky 5\\PRN212\\HE180034_SE1819_A01\\HE180034_SE1819_A01\\Services\\Interface\\ICustomerService.cs",
+              "RelativeToolTip": "Services\\Interface\\ICustomerService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T09:13:12.573Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "CustomerService.cs",
+              "DocumentMoniker": "F:\\Ky 5\\PRN212\\HE180034_SE1819_A01\\HE180034_SE1819_A01\\Services\\CustomerService.cs",
+              "RelativeDocumentMoniker": "Services\\CustomerService.cs",
+              "ToolTip": "F:\\Ky 5\\PRN212\\HE180034_SE1819_A01\\HE180034_SE1819_A01\\Services\\CustomerService.cs",
+              "RelativeToolTip": "Services\\CustomerService.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAgwCUAAAB7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T09:11:36.501Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "RoomRepository.cs",
+              "DocumentMoniker": "F:\\Ky 5\\PRN212\\HE180034_SE1819_A01\\HE180034_SE1819_A01\\Repositories\\RoomRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\RoomRepository.cs",
+              "ToolTip": "F:\\Ky 5\\PRN212\\HE180034_SE1819_A01\\HE180034_SE1819_A01\\Repositories\\RoomRepository.cs",
+              "RelativeToolTip": "Repositories\\RoomRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAABJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T09:11:21.475Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "BookingReservation.cs",
+              "DocumentMoniker": "F:\\Ky 5\\PRN212\\HE180034_SE1819_A01\\HE180034_SE1819_A01\\BusinessObjects\\BookingReservation.cs",
+              "RelativeDocumentMoniker": "BusinessObjects\\BookingReservation.cs",
+              "ToolTip": "F:\\Ky 5\\PRN212\\HE180034_SE1819_A01\\HE180034_SE1819_A01\\BusinessObjects\\BookingReservation.cs",
+              "RelativeToolTip": "BusinessObjects\\BookingReservation.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T08:57:21.386Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "RoomType.cs",
+              "DocumentMoniker": "F:\\Ky 5\\PRN212\\HE180034_SE1819_A01\\HE180034_SE1819_A01\\BusinessObjects\\RoomType.cs",
+              "RelativeDocumentMoniker": "BusinessObjects\\RoomType.cs",
+              "ToolTip": "F:\\Ky 5\\PRN212\\HE180034_SE1819_A01\\HE180034_SE1819_A01\\BusinessObjects\\RoomType.cs",
+              "RelativeToolTip": "BusinessObjects\\RoomType.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T10:00:15.653Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "F:\\Ky 5\\PRN212\\HE180034_SE1819_A01\\HE180034_SE1819_A01\\WPFApp\\App.xaml.cs",
+              "RelativeDocumentMoniker": "WPFApp\\App.xaml.cs",
+              "ToolTip": "F:\\Ky 5\\PRN212\\HE180034_SE1819_A01\\HE180034_SE1819_A01\\WPFApp\\App.xaml.cs*",
+              "RelativeToolTip": "WPFApp\\App.xaml.cs*",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAADgAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T08:45:23.917Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "App.xaml",
+              "DocumentMoniker": "F:\\Ky 5\\PRN212\\HE180034_SE1819_A01\\HE180034_SE1819_A01\\WPFApp\\App.xaml",
+              "RelativeDocumentMoniker": "WPFApp\\App.xaml",
+              "ToolTip": "F:\\Ky 5\\PRN212\\HE180034_SE1819_A01\\HE180034_SE1819_A01\\WPFApp\\App.xaml",
+              "RelativeToolTip": "WPFApp\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-10T08:45:22.164Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "DataAccessLayer",
+              "DocumentMoniker": "F:\\Ky 5\\PRN212\\HE180034_SE1819_A01\\HE180034_SE1819_A01\\DataAccessLayer\\DataAccessLayer.csproj",
+              "RelativeDocumentMoniker": "DataAccessLayer\\DataAccessLayer.csproj",
+              "ToolTip": "F:\\Ky 5\\PRN212\\HE180034_SE1819_A01\\HE180034_SE1819_A01\\DataAccessLayer\\DataAccessLayer.csproj",
+              "RelativeToolTip": "DataAccessLayer\\DataAccessLayer.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-10T08:57:24.806Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "IRoomRepository.cs",
+              "DocumentMoniker": "F:\\Ky 5\\PRN212\\HE180034_SE1819_A01\\HE180034_SE1819_A01\\Repositories\\Interface\\IRoomRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\Interface\\IRoomRepository.cs",
+              "ToolTip": "F:\\Ky 5\\PRN212\\HE180034_SE1819_A01\\HE180034_SE1819_A01\\Repositories\\Interface\\IRoomRepository.cs",
+              "RelativeToolTip": "Repositories\\Interface\\IRoomRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T09:11:05.216Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "LoginWindow.xaml.cs",
+              "DocumentMoniker": "F:\\Ky 5\\PRN212\\HE180034_SE1819_A01\\HE180034_SE1819_A01\\WPFApp\\LoginWindow.xaml.cs",
+              "RelativeDocumentMoniker": "WPFApp\\LoginWindow.xaml.cs",
+              "ToolTip": "F:\\Ky 5\\PRN212\\HE180034_SE1819_A01\\HE180034_SE1819_A01\\WPFApp\\LoginWindow.xaml.cs",
+              "RelativeToolTip": "WPFApp\\LoginWindow.xaml.cs",
+              "ViewState": "AQIAAEEAAAAAAAAAAAAgwEwAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T08:46:14.733Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "LoginWindow.xaml",
+              "DocumentMoniker": "F:\\Ky 5\\PRN212\\HE180034_SE1819_A01\\HE180034_SE1819_A01\\WPFApp\\LoginWindow.xaml",
+              "RelativeDocumentMoniker": "WPFApp\\LoginWindow.xaml",
+              "ToolTip": "F:\\Ky 5\\PRN212\\HE180034_SE1819_A01\\HE180034_SE1819_A01\\WPFApp\\LoginWindow.xaml",
+              "RelativeToolTip": "WPFApp\\LoginWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-10T09:22:46.796Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "CustomerManagement.xaml",
+              "DocumentMoniker": "F:\\Ky 5\\PRN212\\HE180034_SE1819_A01\\HE180034_SE1819_A01\\WPFApp\\CustomerManagement.xaml",
+              "RelativeDocumentMoniker": "WPFApp\\CustomerManagement.xaml",
+              "ToolTip": "F:\\Ky 5\\PRN212\\HE180034_SE1819_A01\\HE180034_SE1819_A01\\WPFApp\\CustomerManagement.xaml",
+              "RelativeToolTip": "WPFApp\\CustomerManagement.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-10T08:50:00.527Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "AdminWindow.xaml",
+              "DocumentMoniker": "F:\\Ky 5\\PRN212\\HE180034_SE1819_A01\\HE180034_SE1819_A01\\WPFApp\\AdminWindow.xaml",
+              "RelativeDocumentMoniker": "WPFApp\\AdminWindow.xaml",
+              "ToolTip": "F:\\Ky 5\\PRN212\\HE180034_SE1819_A01\\HE180034_SE1819_A01\\WPFApp\\AdminWindow.xaml",
+              "RelativeToolTip": "WPFApp\\AdminWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-10T08:40:26.521Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "ConfigurationManager.cs",
+              "DocumentMoniker": "F:\\Ky 5\\PRN212\\HE180034_SE1819_A01\\HE180034_SE1819_A01\\WPFApp\\ConfigurationManager.cs",
+              "RelativeDocumentMoniker": "WPFApp\\ConfigurationManager.cs",
+              "ToolTip": "F:\\Ky 5\\PRN212\\HE180034_SE1819_A01\\HE180034_SE1819_A01\\WPFApp\\ConfigurationManager.cs",
+              "RelativeToolTip": "WPFApp\\ConfigurationManager.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAwAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T08:45:36.566Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "AddEditRoomDialog.xaml",
+              "DocumentMoniker": "F:\\Ky 5\\PRN212\\HE180034_SE1819_A01\\HE180034_SE1819_A01\\WPFApp\\AddEditRoomDialog.xaml",
+              "RelativeDocumentMoniker": "WPFApp\\AddEditRoomDialog.xaml",
+              "ToolTip": "F:\\Ky 5\\PRN212\\HE180034_SE1819_A01\\HE180034_SE1819_A01\\WPFApp\\AddEditRoomDialog.xaml",
+              "RelativeToolTip": "WPFApp\\AddEditRoomDialog.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-10T08:40:17.027Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "AddEditCustomerDialog.xaml",
+              "DocumentMoniker": "F:\\Ky 5\\PRN212\\HE180034_SE1819_A01\\HE180034_SE1819_A01\\WPFApp\\AddEditCustomerDialog.xaml",
+              "RelativeDocumentMoniker": "WPFApp\\AddEditCustomerDialog.xaml",
+              "ToolTip": "F:\\Ky 5\\PRN212\\HE180034_SE1819_A01\\HE180034_SE1819_A01\\WPFApp\\AddEditCustomerDialog.xaml",
+              "RelativeToolTip": "WPFApp\\AddEditCustomerDialog.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-10T08:39:57.958Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "F:\\Ky 5\\PRN212\\HE180034_SE1819_A01\\HE180034_SE1819_A01\\WPFApp\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "WPFApp\\MainWindow.xaml.cs",
+              "ToolTip": "F:\\Ky 5\\PRN212\\HE180034_SE1819_A01\\HE180034_SE1819_A01\\WPFApp\\MainWindow.xaml.cs",
+              "RelativeToolTip": "WPFApp\\MainWindow.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T08:48:25.551Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "ProfileManagement.xaml",
+              "DocumentMoniker": "F:\\Ky 5\\PRN212\\HE180034_SE1819_A01\\HE180034_SE1819_A01\\WPFApp\\ProfileManagement.xaml",
+              "RelativeDocumentMoniker": "WPFApp\\ProfileManagement.xaml",
+              "ToolTip": "F:\\Ky 5\\PRN212\\HE180034_SE1819_A01\\HE180034_SE1819_A01\\WPFApp\\ProfileManagement.xaml",
+              "RelativeToolTip": "WPFApp\\ProfileManagement.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-10T08:49:09.497Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "F:\\Ky 5\\PRN212\\HE180034_SE1819_A01\\HE180034_SE1819_A01\\WPFApp\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "WPFApp\\MainWindow.xaml",
+              "ToolTip": "F:\\Ky 5\\PRN212\\HE180034_SE1819_A01\\HE180034_SE1819_A01\\WPFApp\\MainWindow.xaml",
+              "RelativeToolTip": "WPFApp\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-10T08:34:32.901Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "RoomManagement.xaml",
+              "DocumentMoniker": "F:\\Ky 5\\PRN212\\HE180034_SE1819_A01\\HE180034_SE1819_A01\\WPFApp\\RoomManagement.xaml",
+              "RelativeDocumentMoniker": "WPFApp\\RoomManagement.xaml",
+              "ToolTip": "F:\\Ky 5\\PRN212\\HE180034_SE1819_A01\\HE180034_SE1819_A01\\WPFApp\\RoomManagement.xaml",
+              "RelativeToolTip": "WPFApp\\RoomManagement.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-10T08:49:32.219Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "IRoomService.cs",
+              "DocumentMoniker": "F:\\Ky 5\\PRN212\\HE180034_SE1819_A01\\HE180034_SE1819_A01\\Services\\Interface\\IRoomService.cs",
+              "RelativeDocumentMoniker": "Services\\Interface\\IRoomService.cs",
+              "ToolTip": "F:\\Ky 5\\PRN212\\HE180034_SE1819_A01\\HE180034_SE1819_A01\\Services\\Interface\\IRoomService.cs",
+              "RelativeToolTip": "Services\\Interface\\IRoomService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T09:13:11.318Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "RoomService.cs",
+              "DocumentMoniker": "F:\\Ky 5\\PRN212\\HE180034_SE1819_A01\\HE180034_SE1819_A01\\Services\\RoomService.cs",
+              "RelativeDocumentMoniker": "Services\\RoomService.cs",
+              "ToolTip": "F:\\Ky 5\\PRN212\\HE180034_SE1819_A01\\HE180034_SE1819_A01\\Services\\RoomService.cs",
+              "RelativeToolTip": "Services\\RoomService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T09:11:47.068Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "ProfileManagement.xaml.cs",
+              "DocumentMoniker": "F:\\Ky 5\\PRN212\\HE180034_SE1819_A01\\HE180034_SE1819_A01\\WPFApp\\ProfileManagement.xaml.cs",
+              "RelativeDocumentMoniker": "WPFApp\\ProfileManagement.xaml.cs",
+              "ToolTip": "F:\\Ky 5\\PRN212\\HE180034_SE1819_A01\\HE180034_SE1819_A01\\WPFApp\\ProfileManagement.xaml.cs",
+              "RelativeToolTip": "WPFApp\\ProfileManagement.xaml.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T08:48:54.619Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "F:\\Ky 5\\PRN212\\HE180034_SE1819_A01\\HE180034_SE1819_A01\\WPFApp\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "WPFApp\\AssemblyInfo.cs",
+              "ToolTip": "F:\\Ky 5\\PRN212\\HE180034_SE1819_A01\\HE180034_SE1819_A01\\WPFApp\\AssemblyInfo.cs",
+              "RelativeToolTip": "WPFApp\\AssemblyInfo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T08:45:34.41Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "F:\\Ky 5\\PRN212\\HE180034_SE1819_A01\\HE180034_SE1819_A01\\WPFApp\\appsettings.json",
+              "RelativeDocumentMoniker": "WPFApp\\appsettings.json",
+              "ToolTip": "F:\\Ky 5\\PRN212\\HE180034_SE1819_A01\\HE180034_SE1819_A01\\WPFApp\\appsettings.json",
+              "RelativeToolTip": "WPFApp\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-10T08:45:25.42Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
